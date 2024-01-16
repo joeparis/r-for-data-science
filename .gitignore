@@ -59,3 +59,10 @@ rsconnect/
 # End of https://www.toptal.com/developers/gitignore/api/r
 
 /.quarto/
+
+
+### Joe's ###
+
+*.html
+*Data Visualization_files
+*Data-Visualization_files
